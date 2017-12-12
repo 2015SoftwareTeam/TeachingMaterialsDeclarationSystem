@@ -6,6 +6,14 @@
 ![WBS流程图](WBS.png)
 
 
+### 甘特图
+
+- 第一周甘特图报表：
+![第一周](fistWeekGanta.png)
+
+- 第二周甘特图报表：
+![第二周](secondWeekGanta.png)
+
 ### 历史
 
 - 李泽瀚
