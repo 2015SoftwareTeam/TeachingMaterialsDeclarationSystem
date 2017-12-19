@@ -1,14 +1,14 @@
 ﻿body {
   margin:0px;
   background-color:rgba(51, 204, 255, 1);
-  background-image:url('../../images/首页/bg.jpg');
+  background-image:url('../../images/登录界面/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size:cover;
   position:static;
   left:auto;
-  width:1521px;
+  width:1280px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,18 +17,18 @@
   position:absolute;
   z-index:0;
 }
-#u215 {
+#u192 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u216_div {
+#u193_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:595px;
+  width:501px;
   height:555px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -42,37 +42,37 @@
   box-shadow:none;
   text-align:left;
 }
-#u216 {
+#u193 {
   position:absolute;
-  left:489px;
+  left:412px;
   top:181px;
-  width:595px;
+  width:501px;
   height:555px;
   opacity:0.5;
   text-align:left;
 }
-#u217 {
+#u194 {
   position:absolute;
   left:2px;
   top:270px;
-  width:591px;
+  width:497px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u218 {
+#u195 {
   position:absolute;
-  left:636px;
+  left:535px;
   top:260px;
-  width:300px;
+  width:252px;
   height:25px;
 }
-#u218_input {
+#u195_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:252px;
   height:25px;
-  font-family:'华文行楷 Bold', '华文行楷 Regular', '华文行楷';
+  font-family:'华文行楷 Bold', '华文行楷';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -80,20 +80,20 @@
   color:#000000;
   text-align:center;
 }
-#u219 {
+#u196 {
   position:absolute;
-  left:636px;
+  left:535px;
   top:329px;
-  width:300px;
+  width:252px;
   height:25px;
 }
-#u219_input {
+#u196_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:252px;
   height:25px;
-  font-family:'华文行楷 Bold', '华文行楷 Regular', '华文行楷';
+  font-family:'华文行楷 Bold', '华文行楷';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -101,7 +101,7 @@
   color:#000000;
   text-align:center;
 }
-#u220_div {
+#u197_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -119,9 +119,9 @@
   font-style:normal;
   color:#000000;
 }
-#u220 {
+#u197 {
   position:absolute;
-  left:635px;
+  left:534px;
   top:229px;
   width:63px;
   height:22px;
@@ -130,18 +130,18 @@
   font-style:normal;
   color:#000000;
 }
-#u221 {
+#u198 {
   position:absolute;
   left:0px;
   top:0px;
   width:63px;
   white-space:nowrap;
 }
-#u222_div {
+#u199_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:75px;
+  width:63px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -155,38 +155,38 @@
   font-style:normal;
   color:#000000;
 }
-#u222 {
+#u199 {
   position:absolute;
-  left:633px;
+  left:533px;
   top:287px;
-  width:75px;
+  width:63px;
   height:37px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#000000;
 }
-#u223 {
+#u200 {
   position:absolute;
   left:0px;
   top:8px;
-  width:75px;
+  width:63px;
   word-wrap:break-word;
 }
-#u224 {
+#u201 {
   position:absolute;
-  left:635px;
+  left:534px;
   top:399px;
-  width:300px;
+  width:252px;
   height:25px;
 }
-#u224_input {
+#u201_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:252px;
   height:25px;
-  font-family:'华文行楷 Bold', '华文行楷 Regular', '华文行楷';
+  font-family:'华文行楷 Bold', '华文行楷';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -194,11 +194,11 @@
   color:#000000;
   text-align:center;
 }
-#u225_div {
+#u202_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:99px;
+  width:83px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -212,36 +212,36 @@
   font-style:normal;
   color:#000000;
 }
-#u225 {
+#u202 {
   position:absolute;
-  left:631px;
+  left:531px;
   top:367px;
-  width:99px;
+  width:83px;
   height:22px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#000000;
 }
-#u226 {
+#u203 {
   position:absolute;
   left:0px;
   top:0px;
-  width:99px;
+  width:83px;
   word-wrap:break-word;
 }
-#u227 {
+#u204 {
   position:absolute;
-  left:636px;
+  left:535px;
   top:489px;
-  width:300px;
+  width:252px;
   height:22px;
 }
-#u227_input {
+#u204_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:252px;
   height:22px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -250,15 +250,15 @@
   text-decoration:none;
   color:#000000;
 }
-#u227_input:disabled {
+#u204_input:disabled {
   color:grayText;
 }
-#u228_div {
+#u205_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:119px;
-  height:22px;
+  width:132px;
+  height:43px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -271,38 +271,38 @@
   font-style:normal;
   color:#000000;
 }
-#u228 {
+#u205 {
   position:absolute;
-  left:635px;
+  left:534px;
   top:447px;
-  width:119px;
-  height:22px;
+  width:132px;
+  height:43px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#000000;
 }
-#u229 {
+#u206 {
   position:absolute;
   left:0px;
-  top:0px;
-  width:119px;
+  top:10px;
+  width:132px;
   word-wrap:break-word;
 }
-#u230 {
+#u207 {
   position:absolute;
-  left:637px;
+  left:536px;
   top:587px;
-  width:300px;
+  width:252px;
   height:25px;
 }
-#u230_input {
+#u207_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:252px;
   height:25px;
-  font-family:'华文行楷 Bold', '华文行楷 Regular', '华文行楷';
+  font-family:'华文行楷 Bold', '华文行楷';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -310,7 +310,7 @@
   color:#000000;
   text-align:center;
 }
-#u231_div {
+#u208_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -328,9 +328,9 @@
   font-style:normal;
   color:#000000;
 }
-#u231 {
+#u208 {
   position:absolute;
-  left:635px;
+  left:534px;
   top:544px;
   width:82px;
   height:22px;
@@ -339,25 +339,25 @@
   font-style:normal;
   color:#000000;
 }
-#u232 {
+#u209 {
   position:absolute;
   left:0px;
   top:0px;
   width:82px;
   white-space:nowrap;
 }
-#u233 {
+#u210 {
   position:absolute;
-  left:720px;
+  left:606px;
   top:655px;
-  width:114px;
+  width:96px;
   height:25px;
 }
-#u233_input {
+#u210_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:114px;
+  width:96px;
   height:25px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -367,29 +367,29 @@
   color:#333333;
   text-align:center;
 }
-#u234_img {
+#u211_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:1522px;
+  width:1281px;
   height:2px;
 }
-#u234 {
+#u211 {
   position:absolute;
   left:0px;
   top:153px;
-  width:1521px;
+  width:1280px;
   height:1px;
 }
-#u235 {
+#u212 {
   position:absolute;
   left:2px;
   top:-8px;
-  width:1517px;
+  width:1276px;
   visibility:hidden;
   word-wrap:break-word;
 }
-#u236_div {
+#u213_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -408,10 +408,10 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u236 {
+#u213 {
   position:absolute;
-  left:679px;
-  top:53px;
+  left:549px;
+  top:63px;
   width:225px;
   height:37px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -420,7 +420,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u237 {
+#u214 {
   position:absolute;
   left:0px;
   top:0px;
